@@ -1,0 +1,9 @@
+{
+  "name": "Alexa-Note-Book-Skill",
+  "version": "0.0.1",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "bluebird": "^3.5.1",
+    "lodash": "^4.17.10"
+  }
+}
